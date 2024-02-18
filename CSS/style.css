@@ -1,0 +1,21 @@
+body 
+{
+    background-color: rgb(172, 162, 128);
+}
+
+.container
+{
+    text-align: center;
+}
+
+#Profile-Info
+{
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+#footer
+{
+    position: fixed;
+    bottom: 0%;
+}
